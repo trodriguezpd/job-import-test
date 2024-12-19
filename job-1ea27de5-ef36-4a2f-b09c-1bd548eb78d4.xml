@@ -11,7 +11,7 @@
     </dispatch>
     <executionEnabled>true</executionEnabled>
     <group>Ansible</group>
-    <id>1ea27de5-ef36-4a2f-b09c-1bd548eb78d4</id>
+    <id>2ea27de5-ef36-4a2f-b09c-1bd548eb78d4</id>
     <loglevel>INFO</loglevel>
     <name>simpleee-inline-playbook-user-encryption-and-ssh-pass</name>
     <nodeFilterEditable>false</nodeFilterEditable>
@@ -43,6 +43,6 @@
         </node-step-plugin>
       </command>
     </sequence>
-    <uuid>1ea27de5-ef36-4a2f-b09c-1bd548eb78d4</uuid>
+    <uuid>2ea27de5-ef36-4a2f-b09c-1bd548eb78d4</uuid>
   </job>
 </joblist>
